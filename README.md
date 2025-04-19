@@ -16,9 +16,11 @@
     <img width="400" src="https://streak-stats.demolab.com?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
     <!-- self-host in Vercel -->
     <!-- <img width="400" src="https://github-readme-streak-stats-Huaijin2005.vercel.app?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
+<p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact&theme=transparent&hide_border=true"/>    
+</p>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
