@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Huaijin2005)
+
 ![dark_snake](https://raw.githubusercontent.com/Huaijin2005/Huaijin2005/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ![light_snake](https://raw.githubusercontent.com/Huaijin2005/Huaijin2005/output/github-contribution-grid-snake.svg) -->
