@@ -5,18 +5,18 @@
 
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!+👋;" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!+%F0%9F%91%8B" alt="Hello World" title="Hello World"/>
 </p>
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Huaijin&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Huaijin2005&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
     <!-- self-host in Vercel -->
     <!-- <img width="400" src="https://github-readme-streak-stats-Huaijin2005.vercel.app?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact"/>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 
