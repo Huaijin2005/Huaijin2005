@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![dark_snake](https://raw.githubusercontent.com/Huaijin2005/Huaijin2005/output/github-contribution-grid-snake-dark.svg)
-![light_snake](https://raw.githubusercontent.com/Huaijin2005/Huaijin2005/output/github-contribution-grid-snake.svg)
+<!-- ![light_snake](https://raw.githubusercontent.com/Huaijin2005/Huaijin2005/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **Huaijin2005/Huaijin2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
