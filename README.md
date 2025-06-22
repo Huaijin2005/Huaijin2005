@@ -13,13 +13,10 @@
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Huaijin2005&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://streak-stats.demolab.com?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+<!--     <img width="400" src="https://streak-stats.demolab.com?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact&theme=transparent&hide_border=true"/>    
     <!-- self-host in Vercel -->
     <!-- <img width="400" src="https://github-readme-streak-stats-Huaijin2005.vercel.app?user=Huaijin2005&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-</p>
-
-<p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huaijin2005&layout=compact&theme=transparent&hide_border=true"/>    
 </p>
 
 <p align="center">
@@ -44,7 +41,7 @@
     <a href="https://lonelygod.me" target="_blank"><img src="https://img.shields.io/badge/blog-lonelygod.me-blue?logo=RSS&logoColor=f5f5f5" alt="blog" title="blog" /></a>
     <a href="https://wakatime.com/@Huaijin2005" target="_blank"><img src="https://wakatime.com/badge/user/2e2a9302-fda6-45e3-b0d2-5411e21a14f4.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <span><img src="https://komarev.com/ghpvc/?username=Huaijin2005&label=profile+views" alt="Profile Views" title="Profile Views" /></span>
+<!--     <span><img src="https://komarev.com/ghpvc/?username=Huaijin2005&label=profile+views" alt="Profile Views" title="Profile Views" /></span> -->
 </p>
 
 
