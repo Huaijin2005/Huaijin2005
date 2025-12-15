@@ -36,13 +36,13 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Huaijin2005&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
 </p>
 
-<!-- <p align="center"> -->
+<p align="center">
     <!-- https://github.com/badges/shields  -->
-    <a href="https://lonelygod.me" target="_blank"><img src="https://img.shields.io/badge/blog-lonelygod.me-blue?logo=RSS&logoColor=f5f5f5" alt="blog" title="blog" /></a>
-    <a href="https://wakatime.com/@Huaijin2005" target="_blank"><img src="https://wakatime.com/badge/user/2e2a9302-fda6-45e3-b0d2-5411e21a14f4.svg" alt="Wakatime" title="Wakatime" /></a>
+    <!-- <a href="https://lonelygod.me" target="_blank"><img src="https://img.shields.io/badge/blog-lonelygod.me-blue?logo=RSS&logoColor=f5f5f5" alt="blog" title="blog" /></a> -->
+    <!-- <a href="https://wakatime.com/@Huaijin2005" target="_blank"><img src="https://wakatime.com/badge/user/2e2a9302-fda6-45e3-b0d2-5411e21a14f4.svg" alt="Wakatime" title="Wakatime" /></a> -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <span><img src="https://komarev.com/ghpvc/?username=Huaijin2005&label=profile+views" alt="Profile Views" title="Profile Views" /></span>
-<!-- </p> -->
+    <!-- <span><img src="https://komarev.com/ghpvc/?username=Huaijin2005&label=profile+views" alt="Profile Views" title="Profile Views" /></span> -->
+</p>
 
 
 <p align="center">
